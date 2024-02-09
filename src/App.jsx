@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Andrew Sarmiento",
-  title: "Desarrollador Web",
+  title: "Web Developer",
   email: "andrew00ws@gmail.com",
   gitHub: "andreudev",
   instagram: "AndrewSr18",
